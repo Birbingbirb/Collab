@@ -1,0 +1,4 @@
+# Xcode per-user config
+Xcuserdata/
+*.xcuserstste
+*.xcuserdatad

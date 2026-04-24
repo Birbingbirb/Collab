@@ -13,6 +13,9 @@ struct ContentView: View {
             Image(systemName: "pencil")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
+            Image(systemName: "eraser")
+                .imageScale(.large)
+                .foregroundStyle(.tint)
             Text("W Actually, Boi!")
 
         }

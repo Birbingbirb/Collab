@@ -13,8 +13,9 @@ struct ContentView: View {
             Image(systemName: "pencil")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
+            Text("Jonas Jonas Jonas Jonas Jonas Jonas Jonas Jonas Jonas Jonas Jonas Jonas ")
             Text("W Actually, Boi!")
-
+            Text("Jonas Jonas Jonas Jonas Jonas Jonas Jonas Jonas Jonas Jonas Jonas Jonas ")
         }
         .padding()
     }
